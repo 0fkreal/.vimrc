@@ -3,7 +3,7 @@
 " " - Avoid using standard Vim directory names like 'plugin'
 call plug#begin('~/.vim/plugged')
 Plug 'gmarik/Vundle.vim'
-Plug 'python-rope/ropevim'
+" Plug 'python-rope/ropevim'
 Plug 'davidhalter/jedi-vim'
 Plug 'SirVer/ultisnips', { 'commit': 'a909dee82b6eaaa3ae001e27c3e95c58d487d242'}
 Plug 'honza/vim-snippets'
